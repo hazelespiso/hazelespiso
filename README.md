@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, Im Hazel! ✩˚⋆.𐙚⑅˚⊹
 
-<!--
-**hazelespiso/hazelespiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎓 Education
+- **Bachelor of Science in Computer Science**  
+  *New Era University (2024–Present)*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Science, Technology, Engineering, and Mathematics (STEM) Graduate**  
+  *Arellano University (2022–2024)*  
+
+---
+
+### 📫 Connect with Me
+- 📧 **Email:** [hzlespiso@gmail.com](mailto:hzlespiso@gmail.com)  
+- 💼 **LinkedIn:** [hazel-ann-espiso](https://www.linkedin.com/in/hazel-ann-espiso/)
+
+- ---
