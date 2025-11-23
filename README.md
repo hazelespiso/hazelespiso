@@ -13,7 +13,7 @@
 ### 📜 Professional Certifications
 | Certificate | Provider |
 |-------------|-----------|
-| [SQL Database 101](https://courses.cognitiveclass.ai/certificates/d73e91190f01425ca9d66e4ca311c208) | Cognitive Class (IBM) |
+| [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/d73e91190f01425ca9d66e4ca311c208) | Cognitive Class (IBM) |
 
 ---
 
