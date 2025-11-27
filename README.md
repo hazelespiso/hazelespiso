@@ -5,9 +5,7 @@
 ### 🎓 Education
 - **Bachelor of Science in Computer Science**  
   *New Era University (2024–Present)*  
-
-- **Science, Technology, Engineering, and Mathematics (STEM) Graduate**  
-  *Arellano University (2022–2024)*  
+ 
 
 ---
 ### 📜 Professional Certifications
